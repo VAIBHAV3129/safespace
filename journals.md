@@ -18,3 +18,9 @@ I just hope it does not blow up
 ## Jun 28, 2026, 2:12 PM
 
 got started with the code today
+
+---
+
+## Jul 2, 2026, 2:01 PM
+
+today I completely completed the coding part and made sure everything is functional and working properly
