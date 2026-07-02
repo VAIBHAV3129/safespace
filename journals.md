@@ -12,3 +12,9 @@ after some really confusing times I just completed my wiring part and the schema
 
 
 I just hope it does not blow up
+
+---
+
+## Jun 28, 2026, 2:12 PM
+
+got started with the code today
