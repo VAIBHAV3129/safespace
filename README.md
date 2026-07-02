@@ -5,13 +5,13 @@
 a desktop guard that alerts you when someone breaches your desk space,but the rest of the time it just tells the time, basically acting as a digital clock
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1.2 hours of work.
 
 
 
 ## How To Use It
 
-schematic completed now
+To use the project, simply plug the ESP32 into a USB power source to activate the system, which will instantly turn on the green status LED to show that it is armed. While your desk is clear, the OLED display will show you a live digital clock followed by the current room temperature and humidity, The moment someone steps into the sensor's path, the system instantly overrides the clock, flashes a bright "BREACH!" warning on the screen, cuts to a red warning LED, and sounds a sharp triple-beep alarm from the buzzer before resetting itself automatically two seconds after the intruder moves away.
 
 
 ## Demo
@@ -51,7 +51,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 1h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 1.2h of work*
 
 
 
