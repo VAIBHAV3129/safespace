@@ -41,7 +41,7 @@ The editor snapshot is in `breadboard-project.json`.
 - obstacle-avoidance-module: 1
 - resistor: 2
 - ssd1306-i2c: 1
-
+## How It Works
 
 ## Firmware
 
