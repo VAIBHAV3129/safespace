@@ -15,6 +15,11 @@ To use the project, simply plug the ESP32 into a USB power source to activate th
 
 ## What It Does
 it protects you deskspace, a fun hobby project
+
+## How It Works
+It displays a rotating digital clock and live room temperature/humidity metrics on an OLED screen while a green LED indicates the system is safe.
+An infrared proximity sensor constantly monitors , sending alerts to the ESP32 microcontroller the moment an object enters its path.
+Upon detection,it logs a alert, replaces the clock interface with a high-contrast "BREACH!" warning, triggers a red indicator, and pulses the active buzzer before safely resetting.
 ## Demo
 
 - **Try it:** [https://breadboard.hackclub.com/share/16](https://breadboard.hackclub.com/share/16)
