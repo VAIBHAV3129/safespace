@@ -13,7 +13,8 @@ a desktop guard that alerts you when someone breaches your desk space,but the re
 
 To use the project, simply plug the ESP32 into a USB power source to activate the system, which will instantly turn on the green status LED to show that it is armed. While your desk is clear, the OLED display will show you a live digital clock followed by the current room temperature and humidity, The moment someone steps into the sensor's path, the system instantly overrides the clock, flashes a bright "BREACH!" warning on the screen, cuts to a red warning LED, and sounds a sharp triple-beep alarm from the buzzer before resetting itself automatically two seconds after the intruder moves away.
 
-
+## What It Does
+it protects you deskspace, a fun hobby project
 ## Demo
 
 - **Try it:** [https://breadboard.hackclub.com/share/16](https://breadboard.hackclub.com/share/16)
